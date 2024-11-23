@@ -1,7 +1,7 @@
 "use client";
 import Typed from "typed.js";
 import { gsap } from "gsap";
-import { use, useEffect, useState } from "react";
+import { useEffect } from "react";
 
 export default function SplashScreen() {
   useEffect(() => {

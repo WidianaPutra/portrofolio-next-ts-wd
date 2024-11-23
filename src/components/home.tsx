@@ -25,7 +25,7 @@ export default function Home() {
             data-aos-delay={2300}
             data-aos-duration={1400}
           >
-            I'm Surya Widiana
+            Im Surya Widiana
           </h1>
           <h1
             className="text-white md:text-[30px] text-[25px]"

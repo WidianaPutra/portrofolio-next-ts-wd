@@ -1,6 +1,5 @@
 // images
 import mie from "@/assets/images/mie.jpg";
-import bg from "@/assets/images/bg.jpg";
 // import ach from "@/assets/images/serti.jpg";
 export const images = { mie };
 
