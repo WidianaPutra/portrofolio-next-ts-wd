@@ -39,7 +39,7 @@ export default function SplashScreen() {
     });
 
     // typed
-    const welcome_text = new Typed(".welcome-text", {
+    new Typed(".welcome-text", {
       strings: ["Welcome"],
       typeSpeed: 70,
       showCursor: false,
