@@ -1,10 +1,7 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
-import Image from "next/image";
-import Typed from "typed.js";
 import AOS from "aos";
-import NavigationBar from "./navbar";
 
 //
 import "aos/dist/aos.css";
